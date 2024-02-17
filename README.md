@@ -1,6 +1,9 @@
 # SRTLA
 
-## Get image
+## Compatibility
+Image build for `linux/amd64` and `linux/arm64` platforms and tested on OrangePI 5 Plus, Raspberry Pi 4 and usual linux server.
+
+## Pull image
 ```shell
 docker pull blackvanilla/srtla
 ```
